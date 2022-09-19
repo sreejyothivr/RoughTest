@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CrossbrowserTesting2]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="roughtest.LoginTestcasess">
+        <methods>
+          <include name="beforemethod"/>
+          <include name="verifyLoggedUsers"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- roughtest.LoginTestcasess -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [CrossbrowserTesting2] -->

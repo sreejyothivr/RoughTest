@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-18T17:16:15 IST" name="CrossbrowserTesting2" finished-at="2022-09-18T17:16:23 IST" duration-ms="8023">
+    <groups>
+    </groups>
+    <test started-at="2022-09-18T17:16:15 IST" name="ChromeTest" finished-at="2022-09-18T17:16:23 IST" duration-ms="8023">
+      <class name="roughtest.DaashBoardTest">
+        <test-method is-config="true" signature="beforemethod(java.lang.String)[pri:0, instance:roughtest.DaashBoardTest@18d87d80]" started-at="2022-09-18T17:16:15 IST" name="beforemethod" finished-at="2022-09-18T17:16:19 IST" duration-ms="3836" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Manageorders_search_btn_size()[pri:0, instance:roughtest.DaashBoardTest@18d87d80]" started-at="2022-09-18T17:16:19 IST" name="Manageorders_search_btn_size" finished-at="2022-09-18T17:16:19 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Manageorders_search_btn_size -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:roughtest.DaashBoardTest@18d87d80]" started-at="2022-09-18T17:16:19 IST" name="aftermethod" finished-at="2022-09-18T17:16:20 IST" duration-ms="211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Manageorders_search_btn_size status=SUCCESS method=DaashBoardTest.Manageorders_search_btn_size()[pri:0, instance:roughtest.DaashBoardTest@18d87d80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.String)[pri:0, instance:roughtest.DaashBoardTest@18d87d80]" started-at="2022-09-18T17:16:20 IST" name="beforemethod" finished-at="2022-09-18T17:16:21 IST" duration-ms="1823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="tableHeaderFieldValidation()[pri:0, instance:roughtest.DaashBoardTest@18d87d80]" started-at="2022-09-18T17:16:21 IST" name="tableHeaderFieldValidation" finished-at="2022-09-18T17:16:23 IST" duration-ms="1416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableHeaderFieldValidation -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:roughtest.DaashBoardTest@18d87d80]" started-at="2022-09-18T17:16:23 IST" name="aftermethod" finished-at="2022-09-18T17:16:23 IST" duration-ms="170" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tableHeaderFieldValidation status=SUCCESS method=DaashBoardTest.tableHeaderFieldValidation()[pri:0, instance:roughtest.DaashBoardTest@18d87d80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- roughtest.DaashBoardTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- CrossbrowserTesting2 -->
+</testng-results>
