@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="CrossbrowserTesting234">
+<suite name="CrossbrowserTesting23478">
 	<test name="ChromeTest">
 		<parameter name="Browser" value="chrome"></parameter>
 		
